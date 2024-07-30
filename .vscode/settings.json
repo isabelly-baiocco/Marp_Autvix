@@ -1,5 +1,5 @@
 {
     "markdown.marp.themes": [
-        "Marp_Autvix"
+        "https://raw.githubusercontent.com/isabelly-baiocco/Marp_Autvix/main/autvix-code.css"
     ]
 }

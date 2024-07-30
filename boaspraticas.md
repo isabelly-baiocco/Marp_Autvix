@@ -1,10 +1,9 @@
 ---
 marp: true
-theme: autvix-code.css
+theme: autvixcode
 header: 'IA no Ambiente Corporativo'
 footer: 'Autvix Group'
 paginate: true
-class: invert
 size: 16:9
 
 ---
